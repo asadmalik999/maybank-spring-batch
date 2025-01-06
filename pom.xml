@@ -8,11 +8,11 @@
         <version>3.0.1</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>net.youssfi</groupId>
-    <artifactId>spring-batch-case</artifactId>
+    <groupId>java.springbatch</groupId>
+    <artifactId>spring-batch</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>spring-batch-case</name>
-    <description>spring-batch-case</description>
+    <name>spring-batch</name>
+    <description>spring-batch</description>
     <properties>
         <java.version>17</java.version>
     </properties>
